@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @avinash-sl
 - 👀 I’m interested in Software Engineering - Backend 
-- 🌱 I’m currently learning Go lang
-- 💞️ I’m looking to collaborate on Backend related stuffs
+- 🌱 I’m currently learning Go lang related tech
+- 💞️ I’m looking to collaborate on Backend/Web3 related stuffs
 - 📫 How to reach me -> avinash@skorlife.com
 
 <!---
